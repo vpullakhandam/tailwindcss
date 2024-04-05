@@ -9,5 +9,11 @@
   },
   "dependencies": {
     "vite": "^5.2.8"
-  }
+  },
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "learning tailwind",
+  "main": "tailwind.config.js",
+  "author": "vaishnavi pullakhandam",
+  "license": "ISC"
 }
